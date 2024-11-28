@@ -1,5 +1,11 @@
-import Image from "next/image";
+import Hero from '@/components/Hero';
+import InfoBoxes from '@/components/InfoBoxes';
 
-export default function Home() {
-  return <div>Home Page</div>;
+export default function HomePage() {
+  return (
+    <>
+      <Hero />
+      <InfoBoxes />
+    </>
+  );
 }

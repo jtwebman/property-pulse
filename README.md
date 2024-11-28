@@ -6,6 +6,7 @@ This is from a class I took on Next.js https://www.traversymedia.com/nextjs-from
 
 - Next.js 15
 - Tailwindcss 4
+- Broke components up better then in the class
 - Used Postgres instead of Mongo
 
 # Run Locally
